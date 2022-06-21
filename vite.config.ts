@@ -19,6 +19,7 @@ export default defineConfig({
         "src/lib/IonContent.svelte",
         "src/lib/IonTitle.svelte",
         "src/lib/IonToolbar.svelte",
+        "src/lib/MyApp.svelte",
       ],
       compilerOptions: {
         customElement: true,
