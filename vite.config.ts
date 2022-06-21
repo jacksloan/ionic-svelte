@@ -14,6 +14,11 @@ export default defineConfig({
         "src/lib/IonInput.svelte",
         "src/lib/IonLabel.svelte",
         "src/lib/IonItem.svelte",
+        "src/lib/IonApp.svelte",
+        "src/lib/IonHeader.svelte",
+        "src/lib/IonContent.svelte",
+        "src/lib/IonTitle.svelte",
+        "src/lib/IonToolbar.svelte",
       ],
       compilerOptions: {
         customElement: true,
